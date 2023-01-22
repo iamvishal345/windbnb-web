@@ -1,4 +1,4 @@
-<h1 align="center">Button and Input component</h1>
+<h1 align="center">Wind BNB</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
